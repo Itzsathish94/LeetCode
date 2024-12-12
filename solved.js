@@ -8,3 +8,7 @@
 // 6) Move Zeroes (no:283) - Array / Easy / 11/12/24 - RV
 // 7) Intersection of Two Arrays II (no:350) - Array / Easy / 11/12/24 - RV
 // 8) Valid Anagram (no.242) - String / Easy / P
+// 9) Reverse String (no:344) - String / Easy / P
+// 10) Find the Index of the First Occurrence in a String (no:28) - String / Easy / P
+// 11) Longest Common Prefix (no:14) - String / Easy / P
+// 12) Valid Palindrome (no:125) - String / Easy / P
