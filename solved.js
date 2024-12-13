@@ -12,3 +12,5 @@
 // 10) Find the Index of the First Occurrence in a String (no:28) - String / Easy / P
 // 11) Longest Common Prefix (no:14) - String / Easy / P
 // 12) Valid Palindrome (no:125) - String / Easy / P
+// 13) Repeated Substring Pattern (no:459) - String / Easy / RV
+// 14) 
